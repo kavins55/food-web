@@ -1,0 +1,14 @@
+# Temp helper scripts
+copy_images.bat
+copy_images.ps1
+copy_images.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.suo
+*.user
